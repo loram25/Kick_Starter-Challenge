@@ -1,5 +1,7 @@
 # Kick_Starter-Challenge
-
+Data Analysis
+The conclusions I can draw from the provided data from Kickstarter campaigns are the following:
+Overall, Kickstarter campaigns are more likely to succeed with a 53.8% success rate than fail with a 37.6% rate or get cancelled with an 8.6% rate.
 Limitations
 The limitations I found with this dataset are the following:
 In order to provide a more thorough analysis for generating actionable insights we need a larger dataset since this dataset only includes 9 parent categories and 41 sub-categories.
